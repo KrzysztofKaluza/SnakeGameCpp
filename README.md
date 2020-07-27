@@ -1,2 +1,2 @@
 # SnakeGameCpp
-Game Snake wrote in C++, OOP
+Game Snake wrote in C++, OOP, SFML
