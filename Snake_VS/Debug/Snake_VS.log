@@ -1,0 +1,21 @@
+﻿  GameLogic.cpp
+d:\buss\snake_vs\snake_vs\gamelogic.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\buss\snake_vs\snake_vs\gamelogic.cpp(130): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+d:\buss\snake_vs\snake_vs\main.cpp(18): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\buss\snake_vs\snake_vs\main.cpp(169): warning C4018: '<': signed/unsigned mismatch
+d:\buss\snake_vs\snake_vs\main.cpp(190): warning C4018: '<': signed/unsigned mismatch
+d:\buss\snake_vs\snake_vs\main.cpp(192): warning C4018: '<': signed/unsigned mismatch
+d:\buss\snake_vs\snake_vs\main.cpp(207): warning C4018: '<': signed/unsigned mismatch
+d:\buss\snake_vs\snake_vs\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+d:\buss\snake_vs\snake_vs\main.cpp(222): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Segment.cpp
+d:\buss\snake_vs\snake_vs\segment.cpp(35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\buss\snake_vs\snake_vs\segment.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\buss\snake_vs\snake_vs\segment.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Snake_VS.vcxproj -> D:\buss\Snake_VS\Debug\Snake_VS.exe
